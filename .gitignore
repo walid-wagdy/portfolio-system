@@ -1,0 +1,53 @@
+# Laravel
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production.local
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.directory
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+composer.lock
+package-lock.json
+yarn.lock
+
+# Build artifacts
+/public/js
+/public/css
+public/mix-manifest.json
+
+# Testing
+coverage/
+.phpunit.cache/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Local configuration
+.env.local
+local.xml
